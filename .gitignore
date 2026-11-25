@@ -1,1 +1,10 @@
 spam
+
+
+# Données 
+data/*.csv
+
+# Modèles entraînés 
+*.keras
+*.h5
+*.pkl
